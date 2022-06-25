@@ -1,0 +1,1 @@
+let sexo = prompt('Informe seu gênero M ou F')
